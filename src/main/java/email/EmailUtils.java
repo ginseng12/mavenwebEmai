@@ -13,7 +13,7 @@ import org.apache.commons.mail.resolver.DataSourceFileResolver;
 import org.apache.commons.mail.resolver.DataSourceUrlResolver;
 
 /**
- * 调试
+ * 调试调试
  */
 
 public class EmailUtils {
